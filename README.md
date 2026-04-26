@@ -1,4 +1,5 @@
-This repository was created to regenerate the Figures and reproduce the results from Akana, Yoe et al., under review.
+This repository was created to regenerate the Figures and reproduce the results from ([Akana et al., 2026](https://www.nature.com/articles/s41588-026-02561-7)).
+
 
 **Instructions**
 
